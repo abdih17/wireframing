@@ -1,0 +1,90 @@
+* {
+  margin: 5px 30px;
+  background-color: #202326;
+  color:red;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+
+}
+header {
+  color:white;
+  background-color: #202326;
+}
+.logo {
+  position:relative;
+  left: -80px;
+}
+.upperNav {
+  text-decoration: none;
+  position: relative;
+  left:540px;
+}
+.hero {
+  margin:0;
+  position: relative;
+  top: -110px;
+  left: -180px;
+  z-index: 0px;
+}
+.triangle {
+
+}
+main{
+
+}
+.headlineSquare {
+
+}
+.upperNav {
+  list-style-type: none;
+  margin: 20px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #202326;
+  position: relative;
+  top: -90px;
+  left: 280px;
+  z-index: 1px;
+  width: 80%;
+}
+.home,.about,.topics,.podcasts,.videos,.events{
+  float: left;
+  display: in-line;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  text-decoration: none;
+  /*background-color: #111;*/
+}
+#search {
+
+}
+h3 {
+
+}
+h6 {
+
+}
+.scroller {
+
+}
+.show {
+
+}
+#subscription {
+
+}
+footer {
+
+}
+.lowerNav {
+
+}
+.social {
+
+}
+h4 {
+
+}
