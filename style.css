@@ -5,9 +5,6 @@
   box-sizing: border-box;
   text-decoration: none;
 }
-body {
-
-}
 header {
   color:white;
   background-color: #202326;
@@ -22,20 +19,12 @@ header {
   left:540px;
 }
 .hero {
+  align-items: center;
   margin:0;
   position: relative;
   top: -110px;
   left: -180px;
   z-index: 0px;
-}
-.triangle {
-
-}
-main{
-
-}
-.headlineSquare {
-
 }
 .upperNav {
   list-style-type: none;
@@ -58,8 +47,15 @@ main{
   text-decoration: none;
   /*background-color: #111;*/
 }
-#search {
-
+.image1,.image2,.image3 {
+  text-decoration: none;
+  overflow: hidden;
+  display: inline-block;
+  color: white;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left:-20px;
 }
 h3 {
 
